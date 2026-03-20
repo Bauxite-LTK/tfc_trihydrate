@@ -1,0 +1,12 @@
+{
+  "type": "tfc:quern",
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:crystal_chunk/limonite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "tfc_trihydrate:pure_coarse_powder/limonite"
+  }
+}

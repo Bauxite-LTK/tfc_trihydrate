@@ -1,0 +1,12 @@
+{
+  "type": "tfc:quern",
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:ore_chunk/magnetite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "tfc_trihydrate:coarse_powder/magnetite"
+  }
+}

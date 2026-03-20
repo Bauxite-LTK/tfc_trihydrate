@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "tfc_trihydrate:poor_ore_chunk/sphalerite"
+  },
+  "result": {
+    "count": 6,
+    "id": "tfc_trihydrate:dirty_coarse_powder/sphalerite"
+  }
+}

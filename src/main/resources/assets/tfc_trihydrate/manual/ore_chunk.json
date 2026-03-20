@@ -1,0 +1,133 @@
+{
+  "ore_chunk0": {
+    "type": "item_display",
+    "items": [
+      "tfc:ore/poor_native_copper",
+      "tfc_trihydrate:poor_ore_chunk/native_copper",
+      "tfc:ore/normal_native_copper",
+      "tfc_trihydrate:ore_chunk/native_copper",
+      "tfc:ore/rich_native_copper",
+      "tfc_trihydrate:crystal_chunk/native_copper"
+    ]
+  },
+
+  "ore_chunk1": {
+    "type": "crafting",
+    "recipes": [
+      [
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/hematite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/limonite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/magnetite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/native_copper"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/native_silver"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/native_gold"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/malachite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/tetrahedrite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/garnierite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/cassiterite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/sphalerite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/poor_ore_chunk/bismuthinite"
+        }
+      ],
+      [
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/hematite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/limonite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/magnetite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/native_copper"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/native_silver"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/native_gold"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/malachite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/tetrahedrite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/garnierite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/cassiterite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/sphalerite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/ore_chunk/bismuthinite"
+        }
+      ],
+      [
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/hematite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/limonite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/magnetite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/native_copper"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/native_silver"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/native_gold"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/malachite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/tetrahedrite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/garnierite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/cassiterite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/sphalerite"
+        },
+        {
+          "recipe": "tfc_trihydrate:crafting/crystal_chunk/bismuthinite"
+        }
+      ]
+    ]
+  }
+}

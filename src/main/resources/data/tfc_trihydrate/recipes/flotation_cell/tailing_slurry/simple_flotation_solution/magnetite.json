@@ -1,0 +1,21 @@
+{
+  "type": "tfc_trihydrate:flotation_cell",
+  "energy": 640,
+  "time": 2,
+  "result_concentrate": {
+    "amount": 50,
+    "id": "tfc_trihydrate:concentrate_magnetite_slurry"
+  },
+  "result_tailing": {
+    "amount": 50,
+    "id": "tfc_trihydrate:tailing_magnetite_slurry"
+  },
+  "input_ore": {
+    "amount": 100,
+    "fluid": "tfc_trihydrate:tailing_magnetite_slurry"
+  },
+  "input_add": {
+    "amount": 1,
+    "fluid": "tfc_trihydrate:simple_flotation_solution"
+  }
+}

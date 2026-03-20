@@ -1,0 +1,8 @@
+# Made in Blockbench 5.0.7
+newmtl m_3cd41fd8-a924-3337-10c6-43431aef2fe8
+map_Kd tfc_trihydrate:block/multiblocks/thickener
+newmtl m_cbbaa641-3d5f-bbfd-250c-0a2cedf235de
+map_Kd immersiveengineering:block/multiblocks/multiblock_base
+newmtl m_05827b62-747b-aacc-f312-8bb8042344cc
+map_Kd immersiveengineering:block/multiblocks/multiblock_components
+newmtl none

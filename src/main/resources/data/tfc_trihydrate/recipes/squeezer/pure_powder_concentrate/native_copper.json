@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "input": {
+    "basePredicate": {
+      "item": "tfc_trihydrate:pure_coarse_powder/native_copper"
+    },
+    "count": 5
+  },
+  "result": {
+    "item": "tfc_trihydrate:concentrate/native_copper"
+  }
+}

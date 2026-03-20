@@ -1,0 +1,16 @@
+{
+  "type": "tfc_trihydrate:ball_mill",
+  "energy": 2400,
+  "time": 50,
+  "result_fluid": {
+    "amount": 125,
+    "id": "tfc_trihydrate:hematite_slurry"
+},
+  "input_fluid": {
+    "amount": 125,
+    "fluid": "minecraft:water"
+  },
+  "input_item": {
+    "item": "tfc_trihydrate:dirty_coarse_powder/hematite"
+  }
+}

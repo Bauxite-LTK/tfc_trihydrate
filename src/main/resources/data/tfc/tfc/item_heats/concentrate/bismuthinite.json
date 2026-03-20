@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 162.0,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:concentrate/bismuthinite"
+    }
+  ],
+  "welding_temperature": 216.0
+}

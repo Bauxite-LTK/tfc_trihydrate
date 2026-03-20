@@ -1,0 +1,16 @@
+{
+  "type": "tfc_trihydrate:ball_mill",
+  "energy": 2400,
+  "time": 200,
+  "result_fluid": {
+    "amount": 500,
+    "id": "tfc_trihydrate:cassiterite_slurry"
+  },
+  "input_fluid": {
+    "amount": 500,
+    "fluid": "minecraft:water"
+  },
+  "input_item": {
+    "item": "tfc_trihydrate:pure_coarse_powder/cassiterite"
+  }
+}

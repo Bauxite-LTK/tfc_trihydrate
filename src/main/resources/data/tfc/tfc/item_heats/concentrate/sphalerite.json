@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 252.0,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:concentrate/sphalerite"
+    }
+  ],
+  "welding_temperature": 336.0
+}

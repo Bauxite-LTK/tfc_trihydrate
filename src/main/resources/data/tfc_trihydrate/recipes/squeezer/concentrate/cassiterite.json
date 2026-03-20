@@ -1,0 +1,13 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "energy": 6400,
+  "input": {
+    "basePredicate": {
+      "item": "tfc:powder/cassiterite"
+    },
+    "count": 10
+  },
+  "result": {
+    "item": "tfc_trihydrate:concentrate/cassiterite"
+  }
+}

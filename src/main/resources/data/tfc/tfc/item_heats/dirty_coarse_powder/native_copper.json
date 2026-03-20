@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 648.0,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:dirty_coarse_powder/native_copper"
+    }
+  ],
+  "welding_temperature": 864.0
+}

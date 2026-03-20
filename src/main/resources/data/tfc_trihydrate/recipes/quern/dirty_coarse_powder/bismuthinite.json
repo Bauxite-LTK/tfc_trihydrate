@@ -1,0 +1,12 @@
+{
+  "type": "tfc:quern",
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:poor_ore_chunk/bismuthinite"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "tfc_trihydrate:dirty_coarse_powder/bismuthinite"
+  }
+}

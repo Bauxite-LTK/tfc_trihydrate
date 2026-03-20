@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_trihydrate:concentrate/hematite",
+    "tfc_trihydrate:concentrate/limonite",
+    "tfc_trihydrate:concentrate/magnetite",
+    "tfc_trihydrate:concentrate/malachite",
+    "tfc_trihydrate:concentrate/garnierite",
+    "tfc_trihydrate:concentrate/cassiterite",
+    "tfc_trihydrate:concentrate/bismuthinite",
+    "tfc_trihydrate:concentrate/sphalerite",
+    "tfc_trihydrate:concentrate/tetrahedrite",
+    "tfc_trihydrate:concentrate/native_gold",
+    "tfc_trihydrate:concentrate/native_silver",
+    "tfc_trihydrate:concentrate/native_copper"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "tfc:barrel_sealed",
+  "duration": 6000,
+  "input_fluid": {
+    "amount": 500,
+    "ingredient": "tfc_trihydrate:lime_slurry"
+  },
+  "input_item": {
+    "count": 5,
+    "ingredient": {
+      "item": "tfc_trihydrate:pure_coarse_powder/hematite"
+    }
+  },
+  "output_item": {
+    "count": 1,
+    "item": "tfc_trihydrate:concentrate/hematite"
+  }
+}

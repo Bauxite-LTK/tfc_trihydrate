@@ -1,0 +1,15 @@
+{
+  "autoload_priority": 10,
+  "tfc_trihydrate:mineral_processing": {
+    "category_weight": 200,
+    "entry_list": [
+      "tfc_trihydrate:ore_chunk",
+      "tfc_trihydrate:coarse_powder",
+      "tfc_trihydrate:ball_mill",
+      "tfc_trihydrate:hydrocyclone",
+      "tfc_trihydrate:flotation_cell",
+      "tfc_trihydrate:thickener",
+      "tfc_trihydrate:powder_compact"
+    ]
+  }
+}

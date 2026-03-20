@@ -1,0 +1,15 @@
+{
+  "type": "tfc_trihydrate:thickener",
+  "energy": 6400,
+  "result_fluid": {
+    "amount": 125,
+    "id": "tfc:limewater"
+  },
+  "result_item": {
+    "item": "tfc:powder/native_silver"
+  },
+  "input_fluid": {
+    "amount": 125,
+    "fluid": "tfc_trihydrate:concentrate_native_silver_slurry"
+  }
+}

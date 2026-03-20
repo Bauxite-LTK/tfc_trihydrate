@@ -1,0 +1,15 @@
+{
+  "type": "tfc_trihydrate:ball_mill",
+  "energy": 9600,
+  "time": 400,
+  "result_item": {
+    "count": 2,
+    "id": "tfc:powder/hematite"
+  },
+  "input_item": {
+    "basePredicate":{
+      "item": "tfc_trihydrate:dirty_coarse_powder/hematite"
+    },
+    "count": 5
+  }
+}

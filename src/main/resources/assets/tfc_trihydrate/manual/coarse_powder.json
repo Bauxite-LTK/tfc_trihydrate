@@ -1,0 +1,25 @@
+{
+  "coarse_powder0": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:poor_ore_chunk/native_copper",
+      "tfc_trihydrate:ore_chunk/native_copper",
+      "tfc_trihydrate:crystal_chunk/native_copper"
+    ]
+  },
+  "coarse_powder1": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:dirty_coarse_powder/native_copper",
+      "tfc_trihydrate:coarse_powder/native_copper",
+      "tfc_trihydrate:pure_coarse_powder/native_copper"
+    ]
+  },
+  "coarse_powder2": {
+    "type": "item_display",
+    "items": [
+      "tfc:wood/barrel/oak",
+      "tfc_trihydrate:bucket/simple_flotation_solution"
+    ]
+  }
+}

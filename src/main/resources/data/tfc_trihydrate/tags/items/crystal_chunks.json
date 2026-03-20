@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_trihydrate:crystal_chunk/hematite",
+    "tfc_trihydrate:crystal_chunk/limonite",
+    "tfc_trihydrate:crystal_chunk/magnetite",
+    "tfc_trihydrate:crystal_chunk/malachite",
+    "tfc_trihydrate:crystal_chunk/garnierite",
+    "tfc_trihydrate:crystal_chunk/cassiterite",
+    "tfc_trihydrate:crystal_chunk/bismuthinite",
+    "tfc_trihydrate:crystal_chunk/sphalerite",
+    "tfc_trihydrate:crystal_chunk/tetrahedrite",
+    "tfc_trihydrate:crystal_chunk/native_gold",
+    "tfc_trihydrate:crystal_chunk/native_silver",
+    "tfc_trihydrate:crystal_chunk/native_copper"
+
+  ]
+}

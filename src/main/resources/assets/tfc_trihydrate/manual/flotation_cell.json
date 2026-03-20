@@ -1,0 +1,25 @@
+{
+  "multiblock": {
+    "type": "multiblock",
+    "name": "tfc_trihydrate:multiblocks/flotation_cell"
+  },
+  "flotation_cell0": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:bucket/processed_native_copper_slurry",
+      "tfc_trihydrate:bucket/simple_flotation_solution"
+    ]
+  },
+  "flotation_cell1": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:bucket/concentrate_native_copper_slurry"
+    ]
+  },
+  "flotation_cell2": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:bucket/tailing_native_copper_slurry"
+    ]
+  }
+}

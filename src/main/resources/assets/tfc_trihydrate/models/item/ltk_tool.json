@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "item",
+	"textures": {
+		"0": "tfc_trihydrate:item/ltk_tool"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [0, 0, 0],
+			"faces": {
+				"north": {"uv": [2, 12, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 12, 0, 12], "texture": "#0"},
+				"south": {"uv": [0, 12, 0, 12], "texture": "#0"},
+				"west": {"uv": [16, 12, 16, 12], "texture": "#0"},
+				"up": {"uv": [0, 16, 0, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "tfc_trihydrate:item/ltk_tool_front"},
+		{"predicate": {"custom_model_data": 2}, "model": "tfc_trihydrate:item/ltk_tool_back"}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [61.54, -11.34, 73.8],
+			"translation": [0.5, -2, 0.5]
+		}
+	}
+}

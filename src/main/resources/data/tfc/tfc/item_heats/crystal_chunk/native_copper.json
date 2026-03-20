@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 648.0,
+  "heat_capacity": 2,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:crystal_chunk/native_copper"
+    }
+  ],
+  "welding_temperature": 864.0
+}

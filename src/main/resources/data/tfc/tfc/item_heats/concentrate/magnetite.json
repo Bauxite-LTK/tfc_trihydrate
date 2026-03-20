@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 921.00006,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:concentrate/magnetite"
+    }
+  ],
+  "welding_temperature": 1228.0
+}

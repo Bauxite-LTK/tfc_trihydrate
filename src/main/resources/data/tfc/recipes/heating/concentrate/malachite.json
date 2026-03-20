@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_trihydrate:concentrate/malachite"
+  },
+  "result_fluid": {
+    "amount": 50,
+    "fluid": "tfc:metal/copper"
+  },
+  "temperature": 1080.0
+}

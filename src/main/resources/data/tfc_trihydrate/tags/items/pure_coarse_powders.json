@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "tfc_trihydrate:pure_coarse_powder/hematite",
+    "tfc_trihydrate:pure_coarse_powder/limonite",
+    "tfc_trihydrate:pure_coarse_powder/magnetite",
+    "tfc_trihydrate:pure_coarse_powder/malachite",
+    "tfc_trihydrate:pure_coarse_powder/garnierite",
+    "tfc_trihydrate:pure_coarse_powder/cassiterite",
+    "tfc_trihydrate:pure_coarse_powder/bismuthinite",
+    "tfc_trihydrate:pure_coarse_powder/sphalerite",
+    "tfc_trihydrate:pure_coarse_powder/tetrahedrite",
+    "tfc_trihydrate:pure_coarse_powder/native_gold",
+    "tfc_trihydrate:pure_coarse_powder/native_silver",
+    "tfc_trihydrate:pure_coarse_powder/native_copper"
+  ]
+}

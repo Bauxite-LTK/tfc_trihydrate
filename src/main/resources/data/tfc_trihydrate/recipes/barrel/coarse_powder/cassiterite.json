@@ -1,0 +1,18 @@
+{
+  "type": "tfc:barrel_sealed",
+  "duration": 6000,
+  "input_fluid": {
+    "amount": 500,
+    "ingredient": "tfc_trihydrate:simple_flotation_solution"
+  },
+  "input_item": {
+    "count": 3,
+    "ingredient": {
+      "item": "tfc_trihydrate:dirty_coarse_powder/cassiterite"
+    }
+  },
+  "output_item": {
+    "count": 1,
+    "item": "tfc_trihydrate:coarse_powder/cassiterite"
+  }
+}

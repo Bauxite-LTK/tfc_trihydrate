@@ -1,0 +1,375 @@
+{
+  "itemGroup.tfc_trihydrate": "群峦:三水合物",
+  "item.tfc_trihydrate.ltk_tool": "神秘工具",
+
+  "desc.tfc_trihydrate.info.thread_ift": "%1$s IF/tick (x%2$d)",
+
+  "manual.tfc_trihydrate.mineral_processing": "高级矿物处理",
+  "manual.tfc_trihydrate.ball_mill": "球磨机",
+  "manual.tfc_trihydrate.hydrocyclone": "水力旋流器",
+
+
+  "item.tfc_trihydrate.bucket.simple_flotation_solution": "简制浮选液桶",
+  "block.tfc_trihydrate.fluid.simple_flotation_solution": "简制浮选液",
+  "fluid.tfc_trihydrate.simple_flotation_solution": "简制浮选液",
+
+  "item.tfc_trihydrate.bucket.sodium_ethyl_xanthate": "乙基黄原酸钠溶液桶",
+  "block.tfc_trihydrate.fluid.sodium_ethyl_xanthate": "乙基黄原酸钠溶液",
+  "fluid.tfc_trihydrate.sodium_ethyl_xanthate": "乙基黄原酸钠溶液",
+
+  "item.tfc_trihydrate.bucket.lime_slurry": "石灰浆桶",
+  "block.tfc_trihydrate.fluid.lime_slurry": "石灰浆",
+  "fluid.tfc_trihydrate.lime_slurry": "石灰浆",
+
+  "item.tfc_trihydrate.bucket.hematite_slurry": "赤铁矿浆桶",
+  "block.tfc_trihydrate.fluid.hematite_slurry": "赤铁矿浆",
+  "fluid.tfc_trihydrate.hematite_slurry": "赤铁矿浆",
+
+  "item.tfc_trihydrate.bucket.limonite_slurry": "褐铁矿浆桶",
+  "block.tfc_trihydrate.fluid.limonite_slurry": "褐铁矿浆",
+  "fluid.tfc_trihydrate.limonite_slurry": "褐铁矿浆",
+
+  "item.tfc_trihydrate.bucket.magnetite_slurry": "磁铁矿浆桶",
+  "block.tfc_trihydrate.fluid.magnetite_slurry": "磁铁矿浆",
+  "fluid.tfc_trihydrate.magnetite_slurry": "磁铁矿浆",
+
+  "item.tfc_trihydrate.bucket.native_copper_slurry": "原生铜矿浆桶",
+  "block.tfc_trihydrate.fluid.native_copper_slurry": "原生铜矿浆",
+  "fluid.tfc_trihydrate.native_copper_slurry": "原生铜矿浆",
+
+  "item.tfc_trihydrate.bucket.native_silver_slurry": "原生银矿浆桶",
+  "block.tfc_trihydrate.fluid.native_silver_slurry": "原生银矿浆",
+  "fluid.tfc_trihydrate.native_silver_slurry": "原生银矿浆",
+
+  "item.tfc_trihydrate.bucket.native_gold_slurry": "原生金矿浆桶",
+  "block.tfc_trihydrate.fluid.native_gold_slurry": "原生金矿浆",
+  "fluid.tfc_trihydrate.native_gold_slurry": "原生金矿浆",
+
+  "item.tfc_trihydrate.bucket.malachite_slurry": "孔雀石矿浆桶",
+  "block.tfc_trihydrate.fluid.malachite_slurry": "孔雀石矿浆",
+  "fluid.tfc_trihydrate.malachite_slurry": "孔雀石矿浆",
+
+  "item.tfc_trihydrate.bucket.tetrahedrite_slurry": "黝铜矿浆桶",
+  "block.tfc_trihydrate.fluid.tetrahedrite_slurry": "黝铜矿浆",
+  "fluid.tfc_trihydrate.tetrahedrite_slurry": "黝铜矿浆",
+
+  "item.tfc_trihydrate.bucket.garnierite_slurry": "绿镍矿浆桶",
+  "block.tfc_trihydrate.fluid.garnierite_slurry": "绿镍矿浆",
+  "fluid.tfc_trihydrate.garnierite_slurry": "绿镍矿浆",
+
+  "item.tfc_trihydrate.bucket.cassiterite_slurry": "锡石矿浆桶",
+  "block.tfc_trihydrate.fluid.cassiterite_slurry": "锡石矿浆",
+  "fluid.tfc_trihydrate.cassiterite_slurry": "锡石矿浆",
+
+  "item.tfc_trihydrate.bucket.sphalerite_slurry": "闪锌矿浆桶",
+  "block.tfc_trihydrate.fluid.sphalerite_slurry": "闪锌矿浆",
+  "fluid.tfc_trihydrate.sphalerite_slurry": "闪锌矿浆",
+
+  "item.tfc_trihydrate.bucket.bismuthinite_slurry": "辉铋矿浆桶",
+  "block.tfc_trihydrate.fluid.bismuthinite_slurry": "辉铋矿浆",
+  "fluid.tfc_trihydrate.bismuthinite_slurry": "辉铋矿浆",
+
+
+
+  "item.tfc_trihydrate.bucket.processed_hematite_slurry": "过选赤铁矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_hematite_slurry": "过选赤铁矿浆",
+  "fluid.tfc_trihydrate.processed_hematite_slurry": "过选赤铁矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_limonite_slurry": "过选褐铁矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_limonite_slurry": "过选褐铁矿浆",
+  "fluid.tfc_trihydrate.processed_limonite_slurry": "过选褐铁矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_magnetite_slurry": "过选磁铁矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_magnetite_slurry": "过选磁铁矿浆",
+  "fluid.tfc_trihydrate.processed_magnetite_slurry": "过选磁铁矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_native_copper_slurry": "过选原生铜矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_native_copper_slurry": "过选原生铜矿浆",
+  "fluid.tfc_trihydrate.processed_native_copper_slurry": "过选原生铜矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_native_silver_slurry": "过选原生银矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_native_silver_slurry": "过选原生银矿浆",
+  "fluid.tfc_trihydrate.processed_native_silver_slurry": "过选原生银矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_native_gold_slurry": "过选原生金矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_native_gold_slurry": "过选原生金矿浆",
+  "fluid.tfc_trihydrate.processed_native_gold_slurry": "过选原生金矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_malachite_slurry": "过选孔雀石矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_malachite_slurry": "过选孔雀石矿浆",
+  "fluid.tfc_trihydrate.processed_malachite_slurry": "过选孔雀石矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_tetrahedrite_slurry": "过选黝铜矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_tetrahedrite_slurry": "过选黝铜矿浆",
+  "fluid.tfc_trihydrate.processed_tetrahedrite_slurry": "过选黝铜矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_garnierite_slurry": "过选绿镍矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_garnierite_slurry": "过选绿镍矿浆",
+  "fluid.tfc_trihydrate.processed_garnierite_slurry": "过选绿镍矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_cassiterite_slurry": "过选锡石矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_cassiterite_slurry": "过选锡石矿浆",
+  "fluid.tfc_trihydrate.processed_cassiterite_slurry": "过选锡石矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_sphalerite_slurry": "过选闪锌矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_sphalerite_slurry": "过选闪锌矿浆",
+  "fluid.tfc_trihydrate.processed_sphalerite_slurry": "过选闪锌矿浆",
+
+  "item.tfc_trihydrate.bucket.processed_bismuthinite_slurry": "过选辉铋矿浆桶",
+  "block.tfc_trihydrate.fluid.processed_bismuthinite_slurry": "过选辉铋矿浆",
+  "fluid.tfc_trihydrate.processed_bismuthinite_slurry": "过选辉铋矿浆",
+
+
+  "item.tfc_trihydrate.bucket.concentrate_hematite_slurry": "赤铁矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_hematite_slurry": "赤铁矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_hematite_slurry": "赤铁矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_limonite_slurry": "褐铁矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_limonite_slurry": "褐铁矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_limonite_slurry": "褐铁矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_magnetite_slurry": "磁铁矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_magnetite_slurry": "磁铁矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_magnetite_slurry": "磁铁矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_native_copper_slurry": "原生铜矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_native_copper_slurry": "原生铜矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_native_copper_slurry": "原生铜矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_native_silver_slurry": "原生银矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_native_silver_slurry": "原生银矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_native_silver_slurry": "原生银矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_native_gold_slurry": "原生金矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_native_gold_slurry": "原生金矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_native_gold_slurry": "原生金矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_malachite_slurry": "孔雀石矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_malachite_slurry": "孔雀石矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_malachite_slurry": "孔雀石矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_tetrahedrite_slurry": "黝铜矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_tetrahedrite_slurry": "黝铜矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_tetrahedrite_slurry": "黝铜矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_garnierite_slurry": "绿镍矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_garnierite_slurry": "绿镍矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_garnierite_slurry": "绿镍矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_cassiterite_slurry": "锡石矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_cassiterite_slurry": "锡石矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_cassiterite_slurry": "锡石矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_sphalerite_slurry": "闪锌矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_sphalerite_slurry": "闪锌矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_sphalerite_slurry": "闪锌矿精矿浆",
+
+  "item.tfc_trihydrate.bucket.concentrate_bismuthinite_slurry": "辉铋矿精矿浆桶",
+  "block.tfc_trihydrate.fluid.concentrate_bismuthinite_slurry": "辉铋矿精矿浆",
+  "fluid.tfc_trihydrate.concentrate_bismuthinite_slurry": "辉铋矿精矿浆",
+
+
+  "item.tfc_trihydrate.bucket.tailing_hematite_slurry": "赤铁矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_hematite_slurry": "赤铁矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_hematite_slurry": "赤铁矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_limonite_slurry": "褐铁矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_limonite_slurry": "褐铁矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_limonite_slurry": "褐铁矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_magnetite_slurry": "磁铁矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_magnetite_slurry": "磁铁矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_magnetite_slurry": "磁铁矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_native_copper_slurry": "原生铜矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_native_copper_slurry": "原生铜矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_native_copper_slurry": "原生铜矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_native_silver_slurry": "原生银矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_native_silver_slurry": "原生银矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_native_silver_slurry": "原生银矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_native_gold_slurry": "原生金矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_native_gold_slurry": "原生金矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_native_gold_slurry": "原生金矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_malachite_slurry": "孔雀石矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_malachite_slurry": "孔雀石矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_malachite_slurry": "孔雀石矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_tetrahedrite_slurry": "黝铜矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_tetrahedrite_slurry": "黝铜矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_tetrahedrite_slurry": "黝铜矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_garnierite_slurry": "绿镍矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_garnierite_slurry": "绿镍矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_garnierite_slurry": "绿镍矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_cassiterite_slurry": "锡石矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_cassiterite_slurry": "锡石矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_cassiterite_slurry": "锡石矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_sphalerite_slurry": "闪锌矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_sphalerite_slurry": "闪锌矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_sphalerite_slurry": "闪锌矿尾矿浆",
+
+  "item.tfc_trihydrate.bucket.tailing_bismuthinite_slurry": "辉铋矿尾矿浆桶",
+  "block.tfc_trihydrate.fluid.tailing_bismuthinite_slurry": "辉铋矿尾矿浆",
+  "fluid.tfc_trihydrate.tailing_bismuthinite_slurry": "辉铋矿尾矿浆",
+
+
+  "item.tfc_trihydrate.crystal_chunk.hematite": "高纯赤铁矿碎块",
+  "item.tfc_trihydrate.ore_chunk.hematite": "赤铁矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.hematite": "贫瘠赤铁矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.hematite": "纯净赤铁矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.hematite": "赤铁矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.hematite": "污浊赤铁矿粗粉",
+  "item.tfc_trihydrate.concentrate.hematite": "赤铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.hematite": "赤铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.hematite": "赤铁矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.hematite": "纯净赤铁矿粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.magnetite": "高纯磁铁矿碎块",
+  "item.tfc_trihydrate.ore_chunk.magnetite": "磁铁矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.magnetite": "贫瘠磁铁矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.magnetite": "纯净磁铁矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.magnetite": "磁铁矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.magnetite": "污浊磁铁矿粗粉",
+  "item.tfc_trihydrate.concentrate.magnetite": "磁铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.magnetite": "磁铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.magnetite": "磁铁矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.magnetite": "纯净磁铁矿粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.limonite": "高纯褐铁矿碎块",
+  "item.tfc_trihydrate.ore_chunk.limonite": "褐铁矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.limonite": "贫瘠褐铁矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.limonite": "纯净褐铁矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.limonite": "褐铁矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.limonite": "污浊褐铁矿粗粉",
+  "item.tfc_trihydrate.concentrate.limonite": "褐铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.limonite": "褐铁矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.limonite": "褐铁矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.limonite": "纯净褐铁矿粗粉",
+  
+  "item.tfc_trihydrate.crystal_chunk.native_copper": "高纯原生铜碎块",
+  "item.tfc_trihydrate.ore_chunk.native_copper": "原生铜碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.native_copper": "贫瘠原生铜碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.native_copper": "纯净原生铜粗粉",
+  "item.tfc_trihydrate.coarse_powder.native_copper": "原生铜粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.native_copper": "污浊原生铜粗粉",
+  "item.tfc_trihydrate.concentrate.native_copper": "原生铜精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.native_copper": "原生铜精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.native_copper": "原生铜粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.native_copper": "纯净原生铜粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.native_silver": "高纯原生银碎块",
+  "item.tfc_trihydrate.ore_chunk.native_silver": "原生银碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.native_silver": "贫瘠原生银碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.native_silver": "纯净原生银粗粉",
+  "item.tfc_trihydrate.coarse_powder.native_silver": "原生银粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.native_silver": "污浊原生银粗粉",
+  "item.tfc_trihydrate.concentrate.native_silver": "原生银精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.native_silver": "原生银精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.native_silver": "原生银粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.native_silver": "纯净原生银粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.native_gold": "高纯原生金碎块",
+  "item.tfc_trihydrate.ore_chunk.native_gold": "原生金碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.native_gold": "贫瘠原生金碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.native_gold": "纯净原生金粗粉",
+  "item.tfc_trihydrate.coarse_powder.native_gold": "原生金粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.native_gold": "污浊原生金粗粉",
+  "item.tfc_trihydrate.concentrate.native_gold": "原生金精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.native_gold": "原生金精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.native_gold": "原生金粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.native_gold": "纯净原生金粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.malachite": "高纯孔雀石碎块",
+  "item.tfc_trihydrate.ore_chunk.malachite": "孔雀石碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.malachite": "贫瘠孔雀石碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.malachite": "纯净孔雀石粗粉",
+  "item.tfc_trihydrate.coarse_powder.malachite": "孔雀石粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.malachite": "污浊孔雀石粗粉",
+  "item.tfc_trihydrate.concentrate.malachite": "孔雀石精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.malachite": "孔雀石精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.malachite": "孔雀石粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.malachite": "纯净孔雀石粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.tetrahedrite": "高纯黝铜矿碎块",
+  "item.tfc_trihydrate.ore_chunk.tetrahedrite": "黝铜矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.tetrahedrite": "贫瘠黝铜矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.tetrahedrite": "纯净黝铜矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.tetrahedrite": "黝铜矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.tetrahedrite": "污浊黝铜矿粗粉",
+  "item.tfc_trihydrate.concentrate.tetrahedrite": "黝铜矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.tetrahedrite": "黝铜矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.tetrahedrite": "黝铜矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.tetrahedrite": "纯净黝铜矿粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.cassiterite": "高纯锡石碎块",
+  "item.tfc_trihydrate.ore_chunk.cassiterite": "锡石碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.cassiterite": "贫瘠锡石碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.cassiterite": "纯净锡石粗粉",
+  "item.tfc_trihydrate.coarse_powder.cassiterite": "锡石粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.cassiterite": "污浊锡石粗粉",
+  "item.tfc_trihydrate.concentrate.cassiterite": "锡石精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.cassiterite": "锡石精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.cassiterite": "锡石粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.cassiterite": "纯净锡石粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.sphalerite": "高纯闪锌矿碎块",
+  "item.tfc_trihydrate.ore_chunk.sphalerite": "闪锌矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.sphalerite": "贫瘠闪锌矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.sphalerite": "纯净闪锌矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.sphalerite": "闪锌矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.sphalerite": "污浊闪锌矿粗粉",
+  "item.tfc_trihydrate.concentrate.sphalerite": "闪锌矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.sphalerite": "闪锌矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.sphalerite": "闪锌矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.sphalerite": "纯净闪锌矿粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.bismuthinite": "高纯辉铋矿碎块",
+  "item.tfc_trihydrate.ore_chunk.bismuthinite": "辉铋矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.bismuthinite": "贫瘠辉铋矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.bismuthinite": "纯净辉铋矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.bismuthinite": "辉铋矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.bismuthinite": "污浊辉铋矿粗粉",
+  "item.tfc_trihydrate.concentrate.bismuthinite": "辉铋矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.bismuthinite": "辉铋矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.bismuthinite": "辉铋矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.bismuthinite": "纯净辉铋矿粗粉",
+
+  "item.tfc_trihydrate.crystal_chunk.garnierite": "高纯绿镍矿碎块",
+  "item.tfc_trihydrate.ore_chunk.garnierite": "绿镍矿碎块",
+  "item.tfc_trihydrate.poor_ore_chunk.garnierite": "贫瘠绿镍矿碎块",
+  "item.tfc_trihydrate.pure_coarse_powder.garnierite": "纯净绿镍矿粗粉",
+  "item.tfc_trihydrate.coarse_powder.garnierite": "绿镍矿粗粉",
+  "item.tfc_trihydrate.dirty_coarse_powder.garnierite": "污浊绿镍矿粗粉",
+  "item.tfc_trihydrate.concentrate.garnierite": "绿镍矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.concentrate.garnierite": "绿镍矿精矿粉饼",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.coarse_powder.garnierite": "绿镍矿粗粉",
+  "tfc.recipe.barrel.tfc_trihydrate.barrel.pure_coarse_powder.garnierite": "纯净绿镍矿粗粉",
+  
+  "effect.tfc_trihydrate.fear": "恐惧",
+
+  "tfc_trihydrate.message.fear": "地底深处的环境使你不安",
+  "tfc_trihydrate.message.fear2": "\u00a74你的恐惧令你难以呼吸",
+
+  "tfc_trihydrate.message.fearless": "\u00a7e你成功制造出了你的第一块铁，这种金属的潜力似乎远超你的想象，你开始向往更加深层的矿脉了。",
+
+  "block.tfc_trihydrate.ball_mill": "球磨机",
+  "block.tfc_trihydrate.flotation_cell": "浮选槽",
+  "block.tfc_trihydrate.hydrocyclone": "水力旋流器",
+  "block.tfc_trihydrate.thickener": "矿浆浓密机",
+
+  "tfc_trihydrate.configuration.title": "群峦：三水合物 配置",
+  "tfc_trihydrate.configuration.section.tfc_trihydrate.common.toml": "群峦：三水合物 通用配置",
+  "tfc_trihydrate.configuration.section.tfc_trihydrate.common.toml.title": "群峦：三水合物 通用配置",
+  "tfc_trihydrate.configuration.machines": "机器",
+  "tfc_trihydrate.configuration.ball_mill": "球磨机",
+  "tfc_trihydrate.configuration.hydrocyclone": "水力旋流器",
+  "tfc_trihydrate.configuration.flotation_cell": "浮选机",
+  "tfc_trihydrate.configuration.thickener": "矿浆浓密机",
+  "tfc_trihydrate.configuration.energyModifier": "配方能耗倍率",
+  "tfc_trihydrate.configuration.timeModifier": "配方耗时倍率"
+}

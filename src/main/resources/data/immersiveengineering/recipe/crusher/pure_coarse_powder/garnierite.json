@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "tfc_trihydrate:crystal_chunk/garnierite"
+  },
+  "result": {
+    "count": 6,
+    "id": "tfc_trihydrate:pure_coarse_powder/garnierite"
+  }
+}

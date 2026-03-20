@@ -1,0 +1,12 @@
+{
+  "type": "tfc_trihydrate:ball_mill",
+  "energy": 2400,
+  "time": 100,
+  "result_item": {
+    "count": 1,
+    "id": "tfc:powder/native_silver"
+  },
+  "input_item": {
+    "item": "tfc_trihydrate:coarse_powder/native_silver"
+  }
+}

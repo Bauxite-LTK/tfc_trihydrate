@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:crusher",
+  "energy": 3200,
+  "input": {
+    "item": "tfc_trihydrate:ore_chunk/garnierite"
+  },
+  "result": {
+    "count": 6,
+    "id": "tfc_trihydrate:coarse_powder/garnierite"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "tfc_trihydrate:hydrocyclone",
+  "energy": 1600,
+  "result_fluid": {
+    "amount": 250,
+    "id": "tfc_trihydrate:processed_tetrahedrite_slurry"
+  },
+  "result_item": {
+    "item": "tfc_trihydrate:coarse_powder/tetrahedrite"
+  },
+  "input_fluid": {
+    "amount": 500,
+    "fluid": "tfc_trihydrate:tetrahedrite_slurry"
+  }
+}

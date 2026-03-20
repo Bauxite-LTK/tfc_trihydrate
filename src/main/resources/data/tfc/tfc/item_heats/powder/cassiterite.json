@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 138.0,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc:powder/cassiterite"
+    }
+  ],
+  "welding_temperature": 184.0
+}

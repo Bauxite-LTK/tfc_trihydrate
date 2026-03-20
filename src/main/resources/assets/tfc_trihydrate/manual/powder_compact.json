@@ -1,0 +1,11 @@
+{
+  "powder_compact0": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:pure_coarse_powder/native_copper",
+      "tfc:powder/native_copper",
+      "immersiveengineering:squeezer",
+      "tfc_trihydrate:concentrate/native_copper"
+    ]
+  }
+}

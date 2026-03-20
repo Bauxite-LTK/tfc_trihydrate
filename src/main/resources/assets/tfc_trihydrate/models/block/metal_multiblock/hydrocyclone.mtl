@@ -1,0 +1,8 @@
+# Made in Blockbench 5.0.7
+newmtl m_f67ebc23-bde5-5e94-e4a5-44e91ca3979e
+map_Kd tfc_trihydrate:block/multiblocks/hydrocyclone
+newmtl m_16c3301f-f82c-dbfc-e829-c58acd508acc
+map_Kd immersiveengineering:block/multiblocks/multiblock_base
+newmtl m_cf11df08-da52-fc58-ac9a-c4f336801a73
+map_Kd immersiveengineering:block/multiblocks/multiblock_components
+newmtl none

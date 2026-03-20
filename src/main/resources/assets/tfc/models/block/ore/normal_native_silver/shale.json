@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "tfc:block/ore/normal_native_silver/base_column",
+	"textures": {
+		"side": "tfc:block/rock/raw/shale",
+		"end": "tfc:block/rock/raw/shale_top",
+		"overlay_end": "tfc:block/ore/normal_native_silver"
+	}
+}

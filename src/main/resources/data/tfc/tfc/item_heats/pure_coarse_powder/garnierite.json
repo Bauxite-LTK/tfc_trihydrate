@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 871.8,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:pure_coarse_powder/garnierite"
+    }
+  ],
+  "welding_temperature": 1162.4
+}

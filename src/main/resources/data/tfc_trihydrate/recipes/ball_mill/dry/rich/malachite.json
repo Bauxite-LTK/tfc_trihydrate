@@ -1,0 +1,12 @@
+{
+  "type": "tfc_trihydrate:ball_mill",
+  "energy": 2400,
+  "time": 100,
+  "result_item": {
+    "count": 3,
+    "id": "tfc:powder/malachite"
+  },
+  "input_item": {
+    "item": "tfc_trihydrate:pure_coarse_powder/malachite"
+  }
+}

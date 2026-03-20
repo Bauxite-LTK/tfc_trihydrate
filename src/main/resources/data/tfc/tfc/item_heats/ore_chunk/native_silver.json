@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 576.0,
+  "heat_capacity": 2,
+  "ingredient": [
+    {
+      "item": "tfc_trihydrate:ore_chunk/native_silver"
+    }
+  ],
+  "welding_temperature": 768.0
+}

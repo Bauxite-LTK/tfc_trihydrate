@@ -1,0 +1,11 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"parent": "tfc:block/ore/normal_magnetite/base",
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "tfc:block/rock/raw/basalt",
+		"all": "tfc:block/rock/raw/basalt",
+		"overlay": "tfc:block/ore/normal_magnetite"
+	}
+}

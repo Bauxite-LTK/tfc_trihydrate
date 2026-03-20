@@ -1,0 +1,10 @@
+{
+  "forging_temperature": 871.8,
+  "heat_capacity": 1,
+  "ingredient": [
+    {
+      "item": "tfc:powder/garnierite"
+    }
+  ],
+  "welding_temperature": 1162.4
+}

@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "tfc:brine",
+    "tfc:curdled_milk",
+    "tfc:limewater",
+    "tfc:lye",
+    "tfc:milk_vinegar",
+    "tfc:olive_oil",
+    "tfc:olive_oil_water",
+    "tfc:tallow",
+    "tfc:tannin",
+    "tfc:vinegar",
+    "#tfc:drinkables",
+    "#tfc:dyes",
+    "tfc_trihydrate:simple_flotation_solution",
+    "tfc_trihydrate:lime_slurry"
+  ]
+}

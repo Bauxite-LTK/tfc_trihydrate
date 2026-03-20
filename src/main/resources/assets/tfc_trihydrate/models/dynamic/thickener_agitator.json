@@ -1,0 +1,5 @@
+{
+  "flip_v": true,
+  "loader": "neoforge:obj",
+  "model": "tfc_trihydrate:models/block/metal_multiblock/thickener_agitator.obj"
+}

@@ -1,0 +1,14 @@
+{
+  "multiblock": {
+    "type": "multiblock",
+    "name": "tfc_trihydrate:multiblocks/hydrocyclone"
+  },
+  "hydrocyclone0": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:bucket/native_copper_slurry",
+      "tfc_trihydrate:bucket/processed_native_copper_slurry",
+      "tfc_trihydrate:coarse_powder/native_copper"
+    ]
+  }
+}

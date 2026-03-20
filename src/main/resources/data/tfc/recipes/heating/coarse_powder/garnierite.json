@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_trihydrate:coarse_powder/garnierite"
+  },
+  "result_fluid": {
+    "amount": 2.5,
+    "fluid": "tfc:metal/nickel"
+  },
+  "temperature": 1453.0
+}

@@ -1,0 +1,14 @@
+{
+  "multiblock": {
+    "type": "multiblock",
+    "name": "tfc_trihydrate:multiblocks/thickener"
+  },
+  "thickener0": {
+    "type": "item_display",
+    "items": [
+      "tfc_trihydrate:bucket/concentrate_native_copper_slurry",
+      "tfc:bucket/limewater",
+      "tfc:powder/native_copper"
+    ]
+  }
+}

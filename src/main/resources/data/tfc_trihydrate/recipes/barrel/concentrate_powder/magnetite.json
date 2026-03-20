@@ -1,0 +1,18 @@
+{
+  "type": "tfc:barrel_sealed",
+  "duration": 3000,
+  "input_fluid": {
+    "amount": 500,
+    "ingredient": "tfc_trihydrate:lime_slurry"
+  },
+  "input_item": {
+    "count": 10,
+    "ingredient": {
+      "item": "tfc:powder/magnetite"
+    }
+  },
+  "output_item": {
+    "count": 1,
+    "item": "tfc_trihydrate:concentrate/magnetite"
+  }
+}
