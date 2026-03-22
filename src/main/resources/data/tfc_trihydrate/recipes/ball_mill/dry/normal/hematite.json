@@ -4,7 +4,7 @@
   "time": 100,
   "result_item": {
     "count": 1,
-    "id": "tfc:powder/hematite"
+    "item": "tfc:powder/hematite"
   },
   "input_item": {
     "item": "tfc_trihydrate:coarse_powder/hematite"

@@ -4,7 +4,7 @@
   "time": 100,
   "result_item": {
     "count": 3,
-    "id": "tfc:powder/cassiterite"
+    "item": "tfc:powder/cassiterite"
   },
   "input_item": {
     "item": "tfc_trihydrate:pure_coarse_powder/cassiterite"

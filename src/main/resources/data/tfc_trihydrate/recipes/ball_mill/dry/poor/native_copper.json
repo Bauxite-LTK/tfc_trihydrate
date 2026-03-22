@@ -4,7 +4,7 @@
   "time": 400,
   "result_item": {
     "count": 2,
-    "id": "tfc:powder/native_copper"
+    "item": "tfc:powder/native_copper"
   },
   "input_item": {
     "basePredicate": {

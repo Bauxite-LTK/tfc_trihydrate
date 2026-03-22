@@ -6,7 +6,7 @@
       "parent": "minecraft:block/block",
       "automatic_culling": false,
       "flip_v": true,
-      "loader": "neoforge:obj",
+      "loader": "forge:obj",
       "render_type": "minecraft:cutout",
       "model": "tfc_trihydrate:models/block/metal_multiblock/flotation_cell.obj",
       "textures": {

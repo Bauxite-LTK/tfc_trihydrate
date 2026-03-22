@@ -4,11 +4,11 @@
   "time": 100,
   "result_fluid": {
     "amount": 250,
-    "id": "tfc_trihydrate:hematite_slurry"
+    "fluid": "tfc_trihydrate:hematite_slurry"
   },
   "input_fluid": {
     "amount": 250,
-    "fluid": "minecraft:water"
+    "tag": "minecraft:water"
   },
   "input_item": {
     "item": "tfc_trihydrate:coarse_powder/hematite"

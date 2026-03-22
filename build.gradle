@@ -32,7 +32,6 @@ minecraft {
     // Use non-default mappings at your own risk. They may not always work.
     // Simply re-run your setup task after changing the mappings to update your workspace.
     mappings channel: 'official', version: '1.20.1'
-
     // When true, this property will have all Eclipse/IntelliJ IDEA run configurations run the "prepareX" task for the given run configuration before launching the game.
     // In most cases, it is not necessary to enable.
     // enableEclipsePrepareRuns = true
@@ -86,19 +85,19 @@ minecraft {
             // Comma-separated list of namespaces to load gametests from. Empty = all namespaces.
             property 'forge.enabledGameTestNamespaces', mod_id
 
-            property 'mixin.env.remapRefMap', 'true'
-            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
+//            property 'mixin.env.remapRefMap', 'true'
+//            property 'mixin.env.refMapRemappingFile', "${projectDir}/build/createSrgToMcp/output.srg"
+//            property 'forge.logging.markers', 'REGISTRIES'
+//            property 'forge.logging.console.level', 'debug'
         }
 
         server {
             property 'forge.enabledGameTestNamespaces', mod_id
 
-            property 'mixin.env.remapRefMap', 'true'
-            property 'mixin.env.refMapRemappingFile', "build/createSrgToMcp/output.srg"
-            property 'forge.logging.markers', 'REGISTRIES'
-            property 'forge.logging.console.level', 'debug'
+//            property 'mixin.env.remapRefMap', 'true'
+//            property 'mixin.env.refMapRemappingFile', "build/createSrgToMcp/output.srg"
+//            property 'forge.logging.markers', 'REGISTRIES'
+//            property 'forge.logging.console.level', 'debug'
 
             args '--nogui'
         }
@@ -113,8 +112,8 @@ minecraft {
         data {
             // example of overriding the workingDirectory set in configureEach above
             workingDirectory project.file('run-data')
-            property 'mixin.env.remapRefMap', 'true'
-            property 'mixin.env.refMapRemappingFile', "build/createSrgToMcp/output.srg"
+//            property 'mixin.env.remapRefMap', 'true'
+//            property 'mixin.env.refMapRemappingFile', "build/createSrgToMcp/output.srg"
             // Specify the modid for data generation, where to output the resulting resource, and where to look for existing resources.
             args '--mod', mod_id, '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
         }

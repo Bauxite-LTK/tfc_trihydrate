@@ -4,7 +4,7 @@
   "time": 100,
   "result_item": {
     "count": 1,
-    "id": "tfc:powder/tetrahedrite"
+    "item": "tfc:powder/tetrahedrite"
   },
   "input_item": {
     "item": "tfc_trihydrate:coarse_powder/tetrahedrite"

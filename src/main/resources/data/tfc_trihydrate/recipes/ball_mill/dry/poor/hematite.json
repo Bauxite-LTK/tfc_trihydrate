@@ -4,7 +4,7 @@
   "time": 400,
   "result_item": {
     "count": 2,
-    "id": "tfc:powder/hematite"
+    "item": "tfc:powder/hematite"
   },
   "input_item": {
     "basePredicate":{

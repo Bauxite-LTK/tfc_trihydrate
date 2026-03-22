@@ -3,13 +3,13 @@
   "energy": 1600,
   "result_fluid": {
     "amount": 250,
-    "id": "tfc_trihydrate:processed_native_gold_slurry"
+    "fluid": "tfc_trihydrate:processed_native_gold_slurry"
   },
   "result_item": {
     "item": "tfc_trihydrate:coarse_powder/native_gold"
   },
   "input_fluid": {
     "amount": 500,
-    "fluid": "tfc_trihydrate:native_gold_slurry"
+    "tag": "tfc_trihydrate:ore_slurry/native_gold"
   }
 }

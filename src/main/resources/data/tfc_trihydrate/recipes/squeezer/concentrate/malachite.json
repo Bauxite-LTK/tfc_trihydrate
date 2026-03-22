@@ -2,7 +2,7 @@
   "type": "immersiveengineering:squeezer",
   "energy": 6400,
   "input": {
-    "basePredicate": {
+    "base_ingredient": {
       "item": "tfc:powder/malachite"
     },
     "count": 10

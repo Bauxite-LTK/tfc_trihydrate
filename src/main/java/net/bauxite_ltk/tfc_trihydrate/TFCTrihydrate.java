@@ -2,7 +2,12 @@ package net.bauxite_ltk.tfc_trihydrate;
 
 import com.mojang.logging.LogUtils;
 import net.bauxite_ltk.tfc_trihydrate.block.ModBlocks;
+import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblockLogic;
+import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblocks;
+import net.bauxite_ltk.tfc_trihydrate.crafting.TFCTHRecipeSerializers;
+import net.bauxite_ltk.tfc_trihydrate.crafting.TFCTHRecipeType;
 import net.bauxite_ltk.tfc_trihydrate.fluid.ModFluids;
+import net.bauxite_ltk.tfc_trihydrate.gui.TFCTHMenuTypes;
 import net.bauxite_ltk.tfc_trihydrate.item.ModItems;
 import net.bauxite_ltk.tfc_trihydrate.tag.ModTags;
 import net.minecraft.client.Minecraft;
@@ -36,7 +41,7 @@ public class TFCTrihydrate
 {
     // Define mod id in a common place for everything to reference
     public static final String MODID = "tfc_trihydrate";
-    private static final Logger LOGGER = LogUtils.getLogger();
+    public static final Logger LOGGER = LogUtils.getLogger();
     //public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS, MODID);
     //public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, MODID);
     //public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, MODID);
@@ -63,6 +68,13 @@ public class TFCTrihydrate
         ModItems.init(modEventBus);
         ModCreativeTabs.init(modEventBus);
 
+        TFCTHRecipeSerializers.init(modEventBus);
+        TFCTHMultiblocks.init();
+        TFCTHMultiblockLogic.init(modEventBus);
+
+        TFCTHRecipeType.init(modEventBus);
+        TFCTHMenuTypes.init(modEventBus);
+
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
@@ -86,6 +98,7 @@ public class TFCTrihydrate
 
         Config.items.forEach((item) -> LOGGER.info("ITEM >> {}", item.toString()));
     }
+
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event)

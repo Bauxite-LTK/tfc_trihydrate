@@ -3,13 +3,13 @@
   "energy": 1600,
   "result_fluid": {
     "amount": 250,
-    "id": "tfc_trihydrate:processed_sphalerite_slurry"
+    "fluid": "tfc_trihydrate:processed_sphalerite_slurry"
   },
   "result_item": {
     "item": "tfc_trihydrate:coarse_powder/sphalerite"
   },
   "input_fluid": {
     "amount": 500,
-    "fluid": "tfc_trihydrate:sphalerite_slurry"
+    "tag": "tfc_trihydrate:ore_slurry/sphalerite"
   }
 }

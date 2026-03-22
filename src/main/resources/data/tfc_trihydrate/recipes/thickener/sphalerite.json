@@ -1,15 +1,15 @@
 {
   "type": "tfc_trihydrate:thickener",
-  "energy": 6400,
+  "energy": 1600,
   "result_fluid": {
-    "amount": 125,
-    "id": "tfc:limewater"
+    "amount": 250,
+    "fluid": "tfc:limewater"
   },
   "result_item": {
     "item": "tfc:powder/sphalerite"
   },
   "input_fluid": {
-    "amount": 125,
-    "fluid": "tfc_trihydrate:concentrate_sphalerite_slurry"
+    "amount": 500,
+    "tag": "tfc_trihydrate:concentrate_ore_slurry/sphalerite"
   }
 }

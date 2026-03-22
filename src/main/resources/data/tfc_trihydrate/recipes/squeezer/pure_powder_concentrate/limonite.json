@@ -2,7 +2,7 @@
   "type": "immersiveengineering:squeezer",
   "energy": 6400,
   "input": {
-    "basePredicate": {
+    "base_ingredient": {
       "item": "tfc_trihydrate:pure_coarse_powder/limonite"
     },
     "count": 5

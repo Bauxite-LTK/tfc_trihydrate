@@ -3,13 +3,13 @@
   "energy": 1600,
   "result_fluid": {
     "amount": 250,
-    "id": "tfc_trihydrate:processed_cassiterite_slurry"
+    "fluid": "tfc_trihydrate:processed_cassiterite_slurry"
   },
   "result_item": {
     "item": "tfc_trihydrate:coarse_powder/cassiterite"
   },
   "input_fluid": {
     "amount": 500,
-    "fluid": "tfc_trihydrate:cassiterite_slurry"
+    "tag": "tfc_trihydrate:ore_slurry/cassiterite"
   }
 }
