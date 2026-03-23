@@ -2,7 +2,7 @@
   "type": "tfc:barrel_sealed",
   "duration": 6000,
   "input_fluid": {
-    "amount": 500,
+    "amount": 5,
     "ingredient": "tfc_trihydrate:simple_flotation_solution"
   },
   "input_item": {

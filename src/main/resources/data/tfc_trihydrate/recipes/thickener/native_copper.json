@@ -2,14 +2,14 @@
   "type": "tfc_trihydrate:thickener",
   "energy": 1600,
   "result_fluid": {
-    "amount": 250,
+    "amount": 125,
     "fluid": "tfc:limewater"
   },
   "result_item": {
     "item": "tfc:powder/native_copper"
   },
   "input_fluid": {
-    "amount": 500,
+    "amount": 125,
     "tag": "tfc_trihydrate:concentrate_ore_slurry/native_copper"
   }
 }
