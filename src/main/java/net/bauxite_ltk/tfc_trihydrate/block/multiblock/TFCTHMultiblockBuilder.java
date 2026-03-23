@@ -1,6 +1,5 @@
-package net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic;
+package net.bauxite_ltk.tfc_trihydrate.block.multiblock;
 
-import blusunrize.immersiveengineering.ImmersiveEngineering;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.MultiblockRegistration;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.MultiblockRegistrationBuilder;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.component.ComparatorManager;
@@ -8,8 +7,6 @@ import blusunrize.immersiveengineering.api.multiblocks.blocks.component.IMultibl
 import blusunrize.immersiveengineering.api.multiblocks.blocks.component.RedstoneControl;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.logic.IMultiblockLogic;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.logic.IMultiblockState;
-import blusunrize.immersiveengineering.common.blocks.multiblocks.component.MultiblockGui;
-import blusunrize.immersiveengineering.common.register.IEMenuTypes;
 import com.google.common.base.Preconditions;
 import net.bauxite_ltk.tfc_trihydrate.TFCTrihydrate;
 import net.bauxite_ltk.tfc_trihydrate.gui.TFCTHMenuTypes;

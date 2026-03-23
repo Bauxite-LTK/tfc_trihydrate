@@ -1,27 +1,20 @@
 package net.bauxite_ltk.tfc_trihydrate;
 
-import blusunrize.immersiveengineering.api.utils.SetRestrictedField;
-import blusunrize.immersiveengineering.common.config.IEServerConfig;
 import net.bauxite_ltk.tfc_trihydrate.block.ModBlocks;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblockLogic;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblocks;
-import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.TFCTHMultiblockBuilder;
+import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblockBuilder;
 import net.bauxite_ltk.tfc_trihydrate.crafting.TFCTHRecipeSerializers;
 import net.bauxite_ltk.tfc_trihydrate.crafting.TFCTHRecipeType;
 import net.bauxite_ltk.tfc_trihydrate.effect.ModEffects;
 import net.bauxite_ltk.tfc_trihydrate.fluid.ModFluids;
 import net.bauxite_ltk.tfc_trihydrate.gui.TFCTHMenuTypes;
 import net.bauxite_ltk.tfc_trihydrate.item.ModItems;
-import net.bauxite_ltk.tfc_trihydrate.util.ModTags;
 import net.minecraft.world.item.*;
-import net.neoforged.fml.event.config.ModConfigEvent;
-import net.neoforged.neoforge.event.ItemAttributeModifierEvent;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
 
-import net.minecraft.core.registries.BuiltInRegistries;
-import net.minecraft.world.level.block.Blocks;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.Mod;

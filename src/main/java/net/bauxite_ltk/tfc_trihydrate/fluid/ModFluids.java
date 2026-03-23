@@ -420,8 +420,9 @@ public class ModFluids {
     }
 
     public static void init(IEventBus modEventBus){
-        FLUIDS.register(modEventBus);
         FLUID_TYPES.register(modEventBus);
+        FLUIDS.register(modEventBus);
+
     }
 
 }

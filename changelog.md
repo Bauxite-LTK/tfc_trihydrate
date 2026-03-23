@@ -1,3 +1,14 @@
+### TFC:Trihydrate-1.0.0f
+#### changes
+- fix unreasonable Simple Flotation Solution demand in barrel recipes
+
+#### known issues
+- English Manual WIP
+- veins generation WIP
+- data pack incompatible with kubejs_tfc
+
+---
+
 ### TFC:Trihydrate-1.0.0e
 #### changes
 - add English Manual txt (WIP)
