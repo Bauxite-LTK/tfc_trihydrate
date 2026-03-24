@@ -1,3 +1,18 @@
+### TFC:Trihydrate-1.0.0g
+#### changes
+- change Simple Flotation Solution barrel recipes to instant
+- add Water barrel_sealed recipes for Coarse Powders
+- adjust duration of powder compact barrel recipes
+- small ores now can be processed into pure coarse powder for melt
+- adjust some ore generations
+
+#### known issues
+- English Manual WIP
+- better vein generation
+- data pack incompatible with kubejs_tfc
+
+---
+
 ### TFC:Trihydrate-1.0.0f
 #### changes
 - fix unreasonable Simple Flotation Solution demand in barrel recipes

@@ -53,22 +53,7 @@ public class FearEffect extends MobEffect {
             return false;
         }
         tick = 0;
-        Random random = new Random();
-        int randX = random.nextInt(41)-20;
-        int randZ = random.nextInt(41)-20;
-        int randY = random.nextInt(41)-20;
-        BlockPos testBlockPos = new BlockPos(
-                randX + player.getOnPos().getX(),
-                randY + player.getOnPos().getY(),
-                randZ + player.getOnPos().getZ());
-        Level level = player.level();
-        int brightness = level.getBrightness(LightLayer.SKY,testBlockPos);
-        if(brightness < 8){
-            fearRate+=(8-brightness)*2*(amplifier+1);
-        }
-        else if(fearRate > 0){
-            fearRate--;
-        }
+        fearRate+=8*(amplifier+1);
         TFCTrihydrate.LOGGER.info("FearRate:"+ fearRate);
         //player.sendSystemMessage(Component.literal("相对你脚下坐标 (" + randX + "," + randY + "," + randZ + ") 处亮度为：" + brightness));
         return true;

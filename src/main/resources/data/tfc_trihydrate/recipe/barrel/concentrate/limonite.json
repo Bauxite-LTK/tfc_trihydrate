@@ -1,6 +1,6 @@
 {
   "type": "tfc:barrel_sealed",
-  "duration": 6000,
+  "duration": 600,
   "input_fluid": {
     "amount": 500,
     "fluid": "tfc_trihydrate:lime_slurry"

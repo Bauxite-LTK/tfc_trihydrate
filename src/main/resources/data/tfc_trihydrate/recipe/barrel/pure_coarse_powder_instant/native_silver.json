@@ -1,0 +1,16 @@
+{
+  "type": "tfc:barrel_instant",
+
+  "input_fluid": {
+    "amount": 5,
+    "fluid": "tfc_trihydrate:simple_flotation_solution"
+  },
+  "input_item": {
+    "count": 3,
+    "item": "tfc_trihydrate:coarse_powder/native_silver"
+  },
+  "output_item": {
+    "count": 1,
+    "id": "tfc_trihydrate:pure_coarse_powder/native_silver"
+  }
+}
