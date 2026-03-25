@@ -1,10 +1,11 @@
-### TFC:Trihydrate-1.0.0g
+### TFC:Trihydrate-1.0.0h
 #### changes
 - Add English Manual
 #### known issues
 - better vein generation
 - data pack incompatible with kubejs_tfc
 
+---
 
 ### TFC:Trihydrate-1.0.0g
 #### changes
