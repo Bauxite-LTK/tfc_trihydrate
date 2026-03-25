@@ -1,5 +1,13 @@
 ### TFC:Trihydrate-1.0.0g
 #### changes
+- Add English Manual
+#### known issues
+- better vein generation
+- data pack incompatible with kubejs_tfc
+
+
+### TFC:Trihydrate-1.0.0g
+#### changes
 - change Simple Flotation Solution barrel recipes to instant
 - add Water barrel_sealed recipes for Coarse Powders
 - adjust duration of powder compact barrel recipes

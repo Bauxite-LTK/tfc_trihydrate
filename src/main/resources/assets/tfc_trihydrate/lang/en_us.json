@@ -5,6 +5,8 @@
 
   "desc.tfc_trihydrate.info.thread_ift": "%1$s IF/tick (x%2$d)",
 
+  "manual.tfc_trihydrate.mineral_processing": "Advanced Ore Processing",
+
   "item.tfc_trihydrate.bucket.simple_flotation_solution": "Simple Flotation Solution Bucket",
   "block.tfc_trihydrate.fluid.simple_flotation_solution": "Simple Flotation Solution",
   "fluid.tfc_trihydrate.simple_flotation_solution": "Simple Flotation Solution",
