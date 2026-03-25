@@ -1,13 +1,13 @@
-水力旋流器
-English Manual WIP
+Hydrocyclone
+Sharknado
 <&multiblock>
-水力旋流器是一种利用离心沉降原理分离混合液体的设备，能够快速分离矿浆中的粗细颗粒，以便后续的浮选流程。
+The Hydrocyclone is a device that utilizes centrifugal sedimentation to separate mixed liquids. It can quickly separate coarse and fine particles from slurry for subsequent flotation processes.
 
 <&hydrocyclone0>
-§l离心分选§r
-水力旋流器接受<link;tfc_trihydrate:ball_mill;球磨机;ball_mill2>产出的§3矿浆§r作为输入，侧面输出§1过选矿浆§r，底部输出§2矿石粗粉§r。
+§lCentrifugal Separation§r
+The Hydrocyclone accepts §3Slurry§r produced by a <link;tfc_trihydrate:ball_mill;Ball Mill;ball_mill2> as input. It outputs §1Processed Slurry§r from the side and §2Coarse Powder§r from the bottom.
 
-输出的§2矿石粗粉§r需要返回到§l球磨机§r进行回磨，因此需要谨慎计算产线的IO速率。
-
-500mB §3矿浆 §r---(160IF/t, 10t)--->
-250mB §1过选矿浆 §r+ 1x §2普通粗粉§r
+The output §2Coarse Powder§r needs to be returned to the §lBall Mill §r for regrinding. Therefore, careful calculation of the production line's input/output rate is required.
+500mB §3Slurry §r--(160IF/t, 10t)-->
+250mB §1Processed Slurry §r
++ 1x §2Coarse Powder§r

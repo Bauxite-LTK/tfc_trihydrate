@@ -1,31 +1,34 @@
-矿石粗粉
-English Manual WIP
+Coarse Powder
+The End of Beginning
 <&coarse_powder0>
-§l初步粉碎§r
-现在大部分§3矿物碎块§r都无法直接熔炼，§3原生矿物碎块§r虽可以熔炼但热得很慢，因此把它们打成粉末是个不错的选择。
+§lElementary Crushing§r
+Most §3Ore Chunks§r can not be directly smelted. §3Native Ore Chunks§r can be smelted slowly, so it is a good choice to crush them into powder.
+You can use a §5Quern§r to mill. §31 Ore Chunk§r into §14 Coarse Powder§r
 
-早期可以使用§5手推磨§r研磨，1个§3矿物碎块§r合成4个§1矿物粗粉§r。
-
-工业化后，推荐您使用<link;crusher;粉碎机;start>对矿物进行粉碎，1个§3矿物碎块§r合成6个§1矿物粗粉§r。<np>
+After industrialization, it is recommended to use <link;crusher;Crusher;start> to crush ores. §31 Ore Chunks§r into §16 Coarse Powder§r <np>
 
 <&coarse_powder1>
-§l粗粉品质§r
-§1矿石粗粉§r和§3矿石碎块§r一样有品质之分。
+§lCoarse Powder Quality§r
+Both §1Coarse Powder§r and §3Ore Chunks§r have qualities
 
-§5高纯粗粉§r可以直接用于熔炼。
-§3普通粗粉§r可以直接熔炼但价值很低。
-§2污浊粗粉§r更是无法熔炼。
+§3Pure Coarse Powder§r can be smelted
+§3Coarse Powder§r can be smelted but produce little
+§3Dirty Coarse Powder§r can not be smelted
 
 
 
 <&coarse_powder2>
-§l粗粉加工§r
-所有的粗粉都可以用作<link;tfc_trihydrate:ball_mill;球磨机;ball_mill0>的原料。
-可以使用§5群峦的大桶§r配合§3简制浮选液§r密封5分钟提升粗粉品质。对于§5高纯粗粉§r，还可以配合§3石灰浆§r制造<link;tfc_trihydrate:powder_compact;矿物粉饼;powder_compact0>。
+§lCoarse Powder Processing§r
+All Coarse Powder can be used as ingredients for <link;tfc_trihydrate:ball_mill;Ball Mill;ball_mill0>
+You can use §5TFC Barrel§r and §3Simple Flotation Solution§r, sealing 5 mins to increase coarse powder quality.
+For §3Pure Coarse Powder§r, you can make <link;tfc_trihydrate:powder_compact;Powder Compact;powder_compact0> with Lime Slurry <np>
 
-500mB§3简制浮选液§r+ 3x§3贫瘠粗粉§r
---> §1普通粗粉§rx1 (5min)
-500mB§3简制浮选液§r+ 3x§3普通粗粉§r
---> §1高纯粗粉§rx1 (5min)
+500mB §3Simple Flotation Solution§r
++ 3x §3Dirty Coarse Powder§r -->
+§1Coarse Powder§r x1 (5min)
+
+500mB §3Simple Flotation Solution§r
++ 3x §3Coarse Powder§r -->
+§1Pure Coarse Powder§r x1 (5min)
 
 

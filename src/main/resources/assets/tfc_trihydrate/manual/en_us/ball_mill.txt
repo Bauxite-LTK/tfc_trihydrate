@@ -1,29 +1,37 @@
-球磨机
-English Manual WIP
+Ball Mill
+Maybe for making bread?
 <&multiblock>
-球磨机是一种能够把物料研磨至极细粉末的大型机械，接受粗颗粒粉末作为输入。<np>
+The Ball Mill is a large machine that mills items into fine powder. Coarse powder can be inputted. <np>
 
 <&ball_mill0>
-球磨机拥有§28个处理线程§r，侧面中间位置输入<link;tfc_trihydrate:coarse_powder;矿物粗粉;coarse_powder0>，下方位置输入§3水§r；另一侧中间位置输出§1矿物粉末§r，下方位置输出§1矿浆§r。
-球磨机的配方分为§2干磨§r和§2湿磨§r两种：
-§l干磨方法§r：直接将矿物研磨至§1矿物粉末§r用于熔炼；
-§l湿磨方法§r：向研磨过程中加入§3水§r，得到增产潜力更高的§1矿浆§r。
+Ball Mill has §28 processing threads§r. Input <link;tfc_trihydrate:coarse_powder;Coarse Powder;coarse_powder0> in the center of one side, pumping §3Water§r at the bottom. The machine will output §1Fine Powder§r in the center of the other side, output §1Slurry§r below. <np>
+
+Ball Mill has 2 types of recipes: §2Dry Milling§r and §2Wet Milling§r
+
+§lDry Milling§r: mill ore into §1Ore Powder§r for smelting
+
+§lWet Milling§r: add §3Water§r while milling and get §1Slurry§r with higher potential production <np>
 
 <&ball_mill1>
-§l干磨方法§r
-干磨方法可以直接将§3矿物粗粉§r研磨成§1矿物粉末§r，可作为工业化前期的快速增产手段。
+§lDry Milling§r
+Dry milling can directly mill §3Coarse Powder§r into §1Ore Powder§r, which can be used as a fast way to increase production in early stage
 
-干磨方法的能量消耗速率与输入矿物粗粉的品位无关。(960IF/t)
+The power consumption stays constant, regardless of the quality of coarse powder (960IF/t) <np>
 
-§3贫瘠粗粉§rx5 --> §1矿物粉末§rx2
-§3普通粗粉§rx1 --> §1矿物粉末§rx1
-§3高纯粗粉§rx1 --> §1矿物粉末§rx3
+§3Dirty Coarse Powder§rx5 --> §1Ore Powder§rx2
+
+§3Coarse Powder§rx1 --> §1Ore Powder§rx1
+
+§3Pure Coarse Powder§rx1 --> §1Ore Powder§rx3 <np>
 
 <&ball_mill2>
-§l湿磨方法§r
-湿磨方法可以将§3矿物粗粉§r处理为§1矿浆§r，作为后续选矿工艺中<link;tfc_trihydrate:hydrocyclone;水力旋流器;hydrocyclone0>的原料。该流程具备更高的增产倍率。
-湿磨方法的理论矿浆产出速率和输入矿物粗粉的品位无关。(100mB/t)
+§lWet milling§r
+Wet milling can process §3Coarse Powder§r into §1Slurry§r as ingredient for <link;tfc_trihydrate:hydrocyclone;Hydrocyclone;hydrocyclone0>. Wet milling has a higher production.
 
-§3贫瘠粗粉§rx1 --> 125mB §1矿浆 §r10t
-§3普通粗粉§rx1 --> 250mB §1矿浆 §r20t
-§3高纯粗粉§rx1 --> 500mB §1矿浆 §r40t
+The slurry production rate stays constant, regardless of the quality of coarse powder (100mB/t) <np>
+
+§3Dirty Coarse Powder§rx1 --> 125mB §1Slurry §r10t
+
+§3Coarse Powder§rx1 --> 250mB §1Slurry §r20t
+
+§3Pure Coarse Powder§rx1 --> 500mB §1Slurry §r40t

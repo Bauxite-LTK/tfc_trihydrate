@@ -1,12 +1,18 @@
-矿物粉饼
-English Manual WIP
+Powder Compact
+Espresso please
 <&powder_compact0>
-§l压粉成型§r
-§3矿物粉末§r一份仅能熔炼5mB的金属，非常不便。
-因此建议您先将可熔炼的粉末压缩成粉饼后再使用。
+§lPowder Compaction§r
+§3Ore Powder§r can only be smelt into 5 mB of metal, which is very inefficient.
 
-前期可以使用§5群峦的大桶§r配合§1石灰浆§r密封5分钟来加工，工业化后推荐您使用<link;squeezer;工业挤压机;start>。
-10个§3矿物粉末§r合成1个§1矿物粉饼§r，5个§3高纯粗粉§r合成1个§1矿物粉饼§r。<np>
+It is recommended to compress smeltable powder into Powder Compact before use.
 
-虽然这个过程没有增产，但热容值没有变化，因此更便于加热熔炼！
+In the early game, this can be done by sealing powders in a §5TFC Barrel§r with §1Lime Slurry§r for 30 seconds.<np>
+
+After industrialization, it is recommended to use a <link;squeezer;Squeezer;start>.
+
+§310 Ore Powder§r can be craft into §11 Powder Compact§r
+
+§35 Pure Coarse Powder§r can be craft into §11 Powder Compact§r. <np>
+
+Although this process does not increase yield, the heat capacity remains the same, making heating and smelting easier!
 

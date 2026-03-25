@@ -1,12 +1,12 @@
-矿石碎块
-English Manual WIP
+Ore Chunk
+Does Mace work too?
 <&ore_chunk0>
-§l锤击破碎§r
-挖出来的§3矿石§r现在有了3D模型材质，而且无法直接熔炼。
+§lHammer Crushing§r
+Mined ore is now modeled in 3D and cannot be smelted directly.
 
-于是你将进行所有矿物处理的第一步：用一把§5锤子§r将§3矿石§r破碎为两个§1矿石碎块§r。
+Therefore, you will perform the first step of all mineral processing: use a §5Hammer§r to crush §3Ore§r into §12 Ore Chunks§r。
 
-工业化后建议使用<link;assembler;装配机;multiblock>代替手动合成自动粉碎矿石。
+After industrialization, it is recommended to use an <link;assembler;Assembler;multiblock> to crush ore automatically instead of crafting it manually.
 
 <&ore_chunk1>
 
