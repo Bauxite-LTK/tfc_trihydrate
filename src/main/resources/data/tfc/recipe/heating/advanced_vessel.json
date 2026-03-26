@@ -1,0 +1,11 @@
+{
+  "type": "tfc:heating",
+  "ingredient": {
+    "item": "tfc_trihydrate:ceramic/unfired_advanced_vessel"
+  },
+  "result_item": {
+    "count": 1,
+    "id": "tfc_trihydrate:ceramic/advanced_vessel"
+  },
+  "temperature": 1399.0
+}

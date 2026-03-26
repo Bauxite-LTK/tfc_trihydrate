@@ -1,7 +1,7 @@
 package net.bauxite_ltk.tfc_trihydrate.block;
 
 import net.bauxite_ltk.tfc_trihydrate.fluid.ModFluids;
-import net.bauxite_ltk.tfc_trihydrate.item.ModItems;
+import net.bauxite_ltk.tfc_trihydrate.item.TFCTHItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -84,7 +84,7 @@ public class ModBlocks {
     }
 
     public static <T extends Block> void registerBlockItem(String name, DeferredBlock<T> block){
-        ModItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
+        TFCTHItems.ITEMS.register(name, () -> new BlockItem(block.get(), new Item.Properties()));
     }
 
     private static <T extends Block> DeferredBlock<T> registerNoItem(String name, Supplier<T> block)

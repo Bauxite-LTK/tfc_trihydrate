@@ -1,37 +1,27 @@
 package net.bauxite_ltk.tfc_trihydrate.event;
 
-import blusunrize.immersiveengineering.client.ClientProxy;
-import blusunrize.immersiveengineering.client.gui.*;
-import blusunrize.immersiveengineering.client.models.ModelConfigurableSides;
-import blusunrize.immersiveengineering.client.models.ModelConveyor;
-import blusunrize.immersiveengineering.client.models.ModelCoresample;
-import blusunrize.immersiveengineering.client.models.PotionBucketModel;
-import blusunrize.immersiveengineering.client.models.connection.FeedthroughLoader;
-import blusunrize.immersiveengineering.client.models.mirror.MirroredModelLoader;
-import blusunrize.immersiveengineering.client.models.obj.IEOBJLoader;
-import blusunrize.immersiveengineering.client.models.split.SplitModelLoader;
-import blusunrize.immersiveengineering.client.render.conveyor.RedstoneConveyorRender;
-import blusunrize.immersiveengineering.client.render.entity.SawbladeRenderer;
-import blusunrize.immersiveengineering.client.render.tile.*;
-import blusunrize.immersiveengineering.client.utils.BasicClientProperties;
-import blusunrize.immersiveengineering.common.register.IEMenuTypes;
-import blusunrize.immersiveengineering.common.register.IEMultiblockLogic;
 import net.bauxite_ltk.tfc_trihydrate.Config;
 import net.bauxite_ltk.tfc_trihydrate.TFCTrihydrate;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.TFCTHMultiblockLogic;
+import net.bauxite_ltk.tfc_trihydrate.container.TFCTHContainerProviders;
+import net.bauxite_ltk.tfc_trihydrate.container.TFCTHContainerTypes;
 import net.bauxite_ltk.tfc_trihydrate.effect.ModEffects;
 import net.bauxite_ltk.tfc_trihydrate.gui.*;
+import net.bauxite_ltk.tfc_trihydrate.gui.item.AdvancedVesselInventoryScreen;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.BallMillScreen;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.FlotationCellScreen;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.HydrocycloneScreen;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.ThickenerScreen;
 import net.bauxite_ltk.tfc_trihydrate.render.BallMillRender;
 import net.bauxite_ltk.tfc_trihydrate.render.FlotationCellRender;
 import net.bauxite_ltk.tfc_trihydrate.render.TFCTHDynamicModel;
 import net.bauxite_ltk.tfc_trihydrate.render.ThickenerRender;
+import net.dries007.tfc.client.screen.SmallVesselInventoryScreen;
+import net.dries007.tfc.common.container.TFCContainerTypes;
 import net.minecraft.advancements.AdvancementHolder;
 import net.minecraft.client.renderer.blockentity.BlockEntityRenderer;
-import net.minecraft.commands.Commands;
 import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceLocation;
-import net.minecraft.server.MinecraftServer;
-import net.minecraft.server.ReloadableServerResources;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.entity.ai.attributes.AttributeModifier;
@@ -43,20 +33,14 @@ import net.minecraft.world.level.block.entity.BlockEntityType;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
-import net.neoforged.fml.config.ModConfig;
 import net.neoforged.fml.event.config.ModConfigEvent;
-import net.neoforged.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.neoforged.neoforge.client.event.EntityRenderersEvent;
 import net.neoforged.neoforge.client.event.ModelEvent;
 import net.neoforged.neoforge.client.event.RegisterMenuScreensEvent;
 import net.neoforged.neoforge.common.Tags;
 import net.neoforged.neoforge.event.entity.player.AdvancementEvent;
-import net.neoforged.neoforge.event.server.ServerStartedEvent;
 import net.neoforged.neoforge.event.tick.PlayerTickEvent;
-import net.neoforged.neoforge.items.ItemHandlerHelper;
-import net.neoforged.neoforge.registries.RegisterEvent;
 
-import java.util.concurrent.CompletableFuture;
 import java.util.function.Supplier;
 
 @EventBusSubscriber(modid = TFCTrihydrate.MODID, value = Dist.CLIENT)
@@ -164,6 +148,7 @@ public class ModEvents {
         event.register(TFCTHMenuTypes.FLOTATION_CELL.getType(), FlotationCellScreen::new);
         event.register(TFCTHMenuTypes.HYDROCYCLONE.getType(), HydrocycloneScreen::new);
         event.register(TFCTHMenuTypes.THICKENER.getType(), ThickenerScreen::new);
+        event.register(TFCTHContainerTypes.ADVANCED_VESSEL_INVENTORY.get(), AdvancedVesselInventoryScreen::new);
 
     }
 

@@ -1,16 +1,17 @@
 package net.bauxite_ltk.tfc_trihydrate.gui;
 
-import blusunrize.immersiveengineering.api.Lib;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.env.IMultiblockContext;
 import blusunrize.immersiveengineering.api.multiblocks.blocks.logic.IMultiblockState;
-import blusunrize.immersiveengineering.common.blocks.multiblocks.logic.RefineryLogic;
 import blusunrize.immersiveengineering.common.gui.IEContainerMenu;
-import blusunrize.immersiveengineering.common.gui.RefineryMenu;
 import net.bauxite_ltk.tfc_trihydrate.TFCTrihydrate;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.BallMillLogic;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.FlotationCellLogic;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.HydrocycloneLogic;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.ThickenerLogic;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.BallMillMenu;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.FlotationCellMenu;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.HydrocycloneMenu;
+import net.bauxite_ltk.tfc_trihydrate.gui.multiblock.ThickenerMenu;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.network.chat.Component;

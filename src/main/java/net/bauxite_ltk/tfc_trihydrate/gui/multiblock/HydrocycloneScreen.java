@@ -1,4 +1,4 @@
-package net.bauxite_ltk.tfc_trihydrate.gui;
+package net.bauxite_ltk.tfc_trihydrate.gui.multiblock;
 
 import blusunrize.immersiveengineering.client.gui.IEContainerScreen;
 import blusunrize.immersiveengineering.client.gui.info.EnergyInfoArea;

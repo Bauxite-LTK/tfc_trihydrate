@@ -1,12 +1,10 @@
-package net.bauxite_ltk.tfc_trihydrate.gui;
+package net.bauxite_ltk.tfc_trihydrate.gui.multiblock;
 
 import blusunrize.immersiveengineering.api.energy.IMutableEnergyStorage;
 import blusunrize.immersiveengineering.api.energy.MutableEnergyStorage;
 import blusunrize.immersiveengineering.common.gui.IEContainerMenu;
 import blusunrize.immersiveengineering.common.gui.IESlot;
 import blusunrize.immersiveengineering.common.gui.sync.GenericContainerData;
-import blusunrize.immersiveengineering.common.gui.sync.GenericDataSerializers;
-import blusunrize.immersiveengineering.common.gui.sync.GetterAndSetter;
 import net.bauxite_ltk.tfc_trihydrate.block.multiblock.logic.ThickenerLogic;
 import net.minecraft.world.entity.player.Inventory;
 import net.minecraft.world.inventory.MenuType;

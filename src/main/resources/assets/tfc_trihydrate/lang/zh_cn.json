@@ -5,9 +5,9 @@
   "desc.tfc_trihydrate.info.thread_ift": "%1$s IF/tick (x%2$d)",
 
   "manual.tfc_trihydrate.mineral_processing": "高级矿物处理",
-  "manual.tfc_trihydrate.ball_mill": "球磨机",
-  "manual.tfc_trihydrate.hydrocyclone": "水力旋流器",
 
+  "item.tfc_trihydrate.ceramic.advanced_vessel": "保温小罐",
+  "item.tfc_trihydrate.ceramic.unfired_advanced_vessel": "未烧制的保温小罐",
 
   "item.tfc_trihydrate.bucket.simple_flotation_solution": "简制浮选液桶",
   "block.tfc_trihydrate.fluid.simple_flotation_solution": "简制浮选液",

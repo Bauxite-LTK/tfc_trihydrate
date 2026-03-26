@@ -1,10 +1,6 @@
 package net.bauxite_ltk.tfc_trihydrate.item;
 
 import net.bauxite_ltk.tfc_trihydrate.fluid.ModFluids;
-import net.bauxite_ltk.tfc_trihydrate.item.customSword.CustomSwordItem;
-import net.bauxite_ltk.tfc_trihydrate.item.customSword.CustomTiers;
-import net.dries007.tfc.common.component.heat.HeatComponent;
-import net.dries007.tfc.common.component.heat.HeatDefinition;
 import net.minecraft.world.item.*;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredItem;
@@ -12,7 +8,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 
 import static net.bauxite_ltk.tfc_trihydrate.TFCTrihydrate.MODID;
 
-public class ModItems {
+public class TFCTHItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(MODID);
 
 //    public static final DeferredItem<Item> LTK_TOOL = ITEMS.register("ltk_tool",
@@ -26,6 +22,8 @@ public class ModItems {
 //                            )
 //            )
 //    );
+    public static  final DeferredItem<Item> ADVANCED_VESSEL = ITEMS.register("ceramic/advanced_vessel", ()-> new AdvancedVesselItem(new Item.Properties()));
+    public static  final DeferredItem<Item> UNFIRED_ADVANCED_VESSEL = ITEMS.registerSimpleItem("ceramic/unfired_advanced_vessel");
 
     public static final DeferredItem<Item> HEMATITE_CRYSTAL_CHUNK = ITEMS.registerSimpleItem("crystal_chunk/hematite");
     public static final DeferredItem<Item> HEMATITE_CONCENTRATE = ITEMS.registerSimpleItem("concentrate/hematite");

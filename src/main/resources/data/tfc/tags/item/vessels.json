@@ -1,0 +1,8 @@
+{
+  "values":[
+    "#tfc:unfired_vessels",
+    "#tfc:fired_vessels",
+    "tfc_trihydrate:ceramic/advanced_vessel",
+    "tfc_trihydrate:ceramic/unfired_advanced_vessel"
+  ]
+}

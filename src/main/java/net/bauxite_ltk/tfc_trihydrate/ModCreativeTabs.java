@@ -1,17 +1,15 @@
 package net.bauxite_ltk.tfc_trihydrate;
 
-import net.bauxite_ltk.tfc_trihydrate.item.ModItems;
 import net.dries007.tfc.common.blocks.rock.Ore;
 import net.dries007.tfc.common.items.TFCItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.neoforge.registries.DeferredHolder;
 import net.neoforged.neoforge.registries.DeferredRegister;
 
-import static net.bauxite_ltk.tfc_trihydrate.item.ModItems.*;
+import static net.bauxite_ltk.tfc_trihydrate.item.TFCTHItems.*;
 
 public class ModCreativeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, TFCTrihydrate.MODID);
@@ -148,8 +146,9 @@ public class ModCreativeTabs {
                 output.accept(BISMUTHINITE_DIRTY_COARSE_POWDER.get());
 
 
-                
-                
+                output.accept(UNFIRED_ADVANCED_VESSEL.get());
+                output.accept(ADVANCED_VESSEL.get());
+
                 
                 output.accept(HEMATITE_CONCENTRATE.get());
                 output.accept(LIMONITE_CONCENTRATE.get());

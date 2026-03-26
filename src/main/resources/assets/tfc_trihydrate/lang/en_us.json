@@ -7,6 +7,9 @@
 
   "manual.tfc_trihydrate.mineral_processing": "Advanced Ore Processing",
 
+  "item.tfc_trihydrate.ceramic.advanced_vessel": "Thermal Vessel",
+  "item.tfc_trihydrate.ceramic.unfired_advanced_vessel": "Unfired Thermal Vessel",
+
   "item.tfc_trihydrate.bucket.simple_flotation_solution": "Simple Flotation Solution Bucket",
   "block.tfc_trihydrate.fluid.simple_flotation_solution": "Simple Flotation Solution",
   "fluid.tfc_trihydrate.simple_flotation_solution": "Simple Flotation Solution",

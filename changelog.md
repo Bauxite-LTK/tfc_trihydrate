@@ -1,9 +1,16 @@
+### TFC:Trihydrate-1.0.0i
+#### changes
+- Add Thermal Vessel that slows the cooling of items inside.
+#### known issues
+- better vein generation
+
+---
+
 ### TFC:Trihydrate-1.0.0h
 #### changes
 - Add English Manual
 #### known issues
 - better vein generation
-- data pack incompatible with kubejs_tfc
 
 ---
 
